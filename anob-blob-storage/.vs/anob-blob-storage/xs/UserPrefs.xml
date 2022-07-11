@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{C1F1F21C-D80F-4A75-B4FC-4DEE836F8A1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="anob-blob-storage/Services/BlobService.cs">
+    <Files>
+      <File FileName="anob-blob-storage/Views/Home/Index.cshtml" Line="8" Column="7" />
+      <File FileName="anob-blob-storage/Controllers/BlobController.cs" Line="17" Column="27" />
+      <File FileName="anob-blob-storage/Services/BlobService.cs" Line="6" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="anob-blob-storage" expanded="True">
+            <Node name="anob-blob-storage" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="BlobService.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.anob-blob-storage PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
